@@ -1,0 +1,17 @@
+{
+  "name": "web201l4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todos.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "rakesh",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "jest": "^29.2.2"
+  }
+}
